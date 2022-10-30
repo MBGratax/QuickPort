@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 97a42ec1799729d45ae5039e76d16bf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inputActionScript: {instanceID: 0}
+  - _button: {fileID: 6163158153294324860, guid: ba4f6a296f319f944920d3b704b50562, type: 3}
+  - _joystick: {fileID: 4993132659932134990, guid: 0cda5dc338061f34585e2203b9612901, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

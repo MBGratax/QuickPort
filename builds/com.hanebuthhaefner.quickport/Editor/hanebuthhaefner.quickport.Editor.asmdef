@@ -1,0 +1,25 @@
+{
+    "name": "hanebuthhaefner.quickport.Editor",
+    "rootNamespace": "QuickPortEditor",
+    "references": [
+        "hanebuthhaefner.quickport",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+  "versionDefines": [
+    {
+      "name": "com.unity.inputsystem",
+      "expression": "1.0.2",
+      "define": "QUICKPORT_INPUTSYSTEM_ENABLED"
+    }
+  ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+{
+  "name": "com.hanebuthhaefner.quickport",
+  "version": "1.0.0",
+  "displayName": "QuickPort",
+  "description": "Quickport is a plugin that helps you create mobile controls for your mobile port.",
+  "unity": "2020.3",
+  "documentationUrl": "https://gitlab2.informatik.uni-wuerzburg.de/GE/Teaching/gl2/projects/2021/30-gl2-hanebuth-haefner/-/tree/master/code/QuickPortProject/Packages/com.hanebuthhaefner.quickport/Documentation~/quickport.md",
+  "changelogUrl": "https://gitlab2.informatik.uni-wuerzburg.de/GE/Teaching/gl2/projects/2021/30-gl2-hanebuth-haefner/-/tree/master/code/QuickPortProject/Packages/com.hanebuthhaefner.quickport/CHANGELOG.md",
+  "licensesUrl": "https://gitlab2.informatik.uni-wuerzburg.de/GE/Teaching/gl2/projects/2021/30-gl2-hanebuth-haefner/-/tree/master/code/QuickPortProject/Packages/com.hanebuthhaefner.quickport/LICENSE.md",
+  "dependencies": 
+  {
+  },
+  "hideInEditor": false,
+    "keywords":
+    [
+      "mobile",
+      "port",
+      "ui",
+      "controls"
+    ],
+    "author":
+    {
+      "name": "Jonas Haefner, Clemens Hanebuth"
+    }
+}

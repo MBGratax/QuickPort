@@ -1,0 +1,27 @@
+{
+	"name": "hanebuthhaefner.quickport.Tests",
+	"rootNamespace": "QuickPortAPI",
+    "references": 
+    [
+    "hanebuthhaefner.quickport"
+    ],
+     "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": 
+    [
+    "Editor",
+    "iOS",
+    "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": 
+    [
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

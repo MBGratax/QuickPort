@@ -1,0 +1,26 @@
+{
+    "name": "hanebuthhaefner.quickport",
+    "rootNamespace": "QuickPortAPI",
+    "references": [
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.inputsystem",
+            "expression": "1.0.2",
+            "define": "QUICKPORT_INPUTSYSTEM_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}
